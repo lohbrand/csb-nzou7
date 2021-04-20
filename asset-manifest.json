@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://lohbrand.github.io/csb-nzou7/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://lohbrand.github.io/csb-nzou7/static/js/main.1b74dc67.chunk.js",
+    "main.js.map": "https://lohbrand.github.io/csb-nzou7/static/js/main.1b74dc67.chunk.js.map",
+    "runtime-main.js": "https://lohbrand.github.io/csb-nzou7/static/js/runtime-main.0b97e786.js",
+    "runtime-main.js.map": "https://lohbrand.github.io/csb-nzou7/static/js/runtime-main.0b97e786.js.map",
+    "static/js/2.f36b6710.chunk.js": "https://lohbrand.github.io/csb-nzou7/static/js/2.f36b6710.chunk.js",
+    "static/js/2.f36b6710.chunk.js.map": "https://lohbrand.github.io/csb-nzou7/static/js/2.f36b6710.chunk.js.map",
+    "index.html": "https://lohbrand.github.io/csb-nzou7/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://lohbrand.github.io/csb-nzou7/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.f36b6710.chunk.js.LICENSE.txt": "https://lohbrand.github.io/csb-nzou7/static/js/2.f36b6710.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b97e786.js",
+    "static/js/2.f36b6710.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.1b74dc67.chunk.js"
+  ]
+}
